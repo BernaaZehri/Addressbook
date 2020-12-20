@@ -1,0 +1,24 @@
+
+
+*****************INFORMATA**************************************************
+Databaza:
+
+Te krijohet nje Dummy databaze ne PHP Myadmin me pershkrimin:
+
+Database:  adressbook
+Table: 	   members
+
+
+Per t'a bere Run aplikacionin, hap dy dritare CMD, nje per Server dhe nje per Client;
+	
+	Server side:
+		
+		cd ..path\ npm i
+		cd ..path\ npm start
+
+	Client side:
+
+		cd ..path\client\ npm run dev
+
+
+******************************************************************************
